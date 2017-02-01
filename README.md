@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -156,7 +157,6 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
 ## Syntax Highlighting in the Editor
 
 To configure the syntax highlighting in your favorite text editor, head to the [Babel's docs](https://babeljs.io/docs/editors) and follow the instructions. Some of the most popular editors are covered.
@@ -1242,3 +1242,8 @@ It is reported that `npm run build` can fail on machines with no swap space, whi
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# hello-world
+test
+main changed
+>>>>>>> 99be832e3c08c5dcc04fcc9d5a6ab130e995278c
