@@ -1,1 +1,1 @@
-﻿Reactjs hello world example
+Reactjs hello world example.
